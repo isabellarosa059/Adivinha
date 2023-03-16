@@ -1,3 +1,3 @@
 # Adivinha
 
-jogo de adivinhação em python utilizando comando while
+jogo de adivinhação de número em python utilizando comando while
